@@ -1,2 +1,3 @@
 file2 added in hotfix branch
 changes in file2
+tags are added
